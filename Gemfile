@@ -1,4 +1,7 @@
-source 'https://rubygems.org'
+
+source "https://rubygems.org"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"source 'https://rubygems.org'
 gem "hanuman"
 gem "jekyll", "~> 3.8.5"
 gem 'jekyll-compose', group: [:jekyll_plugins]
